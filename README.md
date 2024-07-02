@@ -1,5 +1,5 @@
 ### Hello World ❤️, I´m Andrea!
-I am a Computer Engineering student from Costa Rica. Currently working as a AI developer!
+I am a Software Engineering student from Costa Rica. Currently working as a AI developer!
 - 👋 Data Scientist in progress.
 - 🔭 Constantly working to learn.
 - 🌱 Research lover.
