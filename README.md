@@ -1,8 +1,9 @@
-### Hello World 👋❤️, I´m Andrea!
-I am a Computer Engineering student from Costa Rica.
+### Hello World ❤️, I´m Andrea!
+I am a Computer Engineering student from Costa Rica. Currently working as a AI developer!
+- 👋 Data Scientist in progress.
 - 🔭 Constantly working to learn.
 - 🌱 Research lover.
-- 🌟 Astronomy enthusiast.
+- 🌟 AI enthusiast.
 - 💻 Passionate about technology and innovation.
 - 🎹 Pianist in progress.
 #### Connect with me
